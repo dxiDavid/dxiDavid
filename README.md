@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dxiDavid
-- 👀 I’m interested in Cybersecurity, Web Development and all things networking
-- 🌱 I’m currently learning Networking and cybersecurity
-- 💞️ I’m looking to collaborate on any beginner friendly tools or bootstrap websites 
+- 👀 I’m in Cybersecurity and Web development enthusiast
+- 🌱 I’m currently learning Networking, Linux, and frontend Web development
 - 📫 How to reach me: davidgichuruofficial@gmail.com
 
 <!---
