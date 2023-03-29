@@ -16,7 +16,7 @@ This is what got me into tech. I stumbled upon some videos on YouTube where I sa
 <img src="./THM.webp" alt="Try Hack Me" width="48"/> &nbsp;
 <img src="./Pico ctf.png" alt="Pico ctf" width="48"/> &nbsp;
 
-[Try hack Me](https://tryhackme.com/) and [Hack The Box](https://www.hackthebox.com/) have really taught me alot and the best part is, I'm not done learning.
+[Try Hack Me](https://tryhackme.com/) and [Hack The Box](https://www.hackthebox.com/) have really taught me alot and the best part is, I'm not done learning.
 
 
 
