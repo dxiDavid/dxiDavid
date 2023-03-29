@@ -6,7 +6,7 @@ Hello, I'm David Gichuru. I'm passionate about tech and `love learning new thing
 
 The Particular fields of tech I'm interested in are as follows
 
-## CyberSecurity 
+## 1. CyberSecurity 
 
 This is what got me into tech. I stumbled upon some videos on YouTube where I saw security professionals doing some pretty interesting things with the browser and the Kali Linux command line and I was sold. At the time I did'nt know what they were doing but I knew I eventually wanted to do it :smile:
 
@@ -20,7 +20,7 @@ This is what got me into tech. I stumbled upon some videos on YouTube where I sa
 
 
 
-## Networking
+## 2. Networking
 
 I developed an interest for networking as soon as I first learned about basic web protocols. Since then I decided to explore the world of networking with Cisco and took a CCNA course and earned some credetials along the way
 
@@ -31,7 +31,7 @@ I developed an interest for networking as soon as I first learned about basic we
 <img src="ccna-enterprise-networking-security-and-automation.png" alt="badge" width="100"/> &nbsp; &nbsp; &nbsp;
 <img src="introduction-to-cybersecurity.png" alt="Introduction to cybersecurity badge" width="100"/>
 
-## Web Development 
+## 3. Web Development 
 I really like the web and want to make some of the most beautiful websites in existence. I enjoy `front-end development` more than backend development.
 
 ### Languages, Frameworks and Libraries
