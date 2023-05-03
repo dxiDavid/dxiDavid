@@ -8,7 +8,7 @@ The Particular fields of tech I'm interested in are as follows
 
 ## 1. CyberSecurity 
 
-This is what got me into tech. I stumbled upon some videos on YouTube where I saw security professionals doing some pretty interesting things with the browser and the Kali Linux command line and I was sold. At the time I did'nt know what they were doing but I knew I eventually wanted to do it :smile:
+This is what got me into tech. I stumbled upon some videos on YouTube where I saw security professionals doing some pretty interesting things with the browser and the Kali Linux command line and I was sold. At the time I didn't know what they were doing but I knew I eventually wanted to do it :smile:
 
 ### My weapons of choice
 ![Kali Linux](./icons8-kali-linux-48.png) &nbsp;
