@@ -26,10 +26,18 @@ I developed an interest for networking as soon as I first learned about basic we
 
 <br/>
 
-<img src="ccna-introduction-to-networks.png" alt="introduction to networks badge" width="100"/>&nbsp; &nbsp; &nbsp;
-<img src="ccna-switching-routing-and-wireless-essentials.1.png" alt="switching, routing, and wireless essentials badge" width="100"/> &nbsp; &nbsp; &nbsp;
-<img src="ccna-enterprise-networking-security-and-automation.png" alt="badge" width="100"/> &nbsp; &nbsp; &nbsp;
+<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
+<img src="ccna-introduction-to-networks.png" alt="introduction to networks badge" width="100"/>
+</a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
+<img src="ccna-switching-routing-and-wireless-essentials.1.png" alt="switching, routing, and wireless essentials badge" width="100"/>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
+<img src="ccna-enterprise-networking-security-and-automation.png" alt="badge" width="100"/>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
 <img src="introduction-to-cybersecurity.png" alt="Introduction to cybersecurity badge" width="100"/>
+</a>
 
 ## 3. Web Development 
 I really like the web and want to make some of the most beautiful websites in existence. I enjoy `front-end development` more than backend development.
