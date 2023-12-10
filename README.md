@@ -37,11 +37,11 @@ This is what got me into tech. I stumbled upon some videos on YouTube where I sa
 <div style="display: flex; flex-direction: column;">
 
 ![Kali Linux](./icons8-kali-linux-48.png) &nbsp; 
-`Kali Linux` - The most preffered pentesting linux distro
+`Kali Linux` - The most prefered pentesting linux distro
 
 <div>
 <img src="./parrot.png" alt="parrot os" width="48"/> &nbsp; 
-`Parrot OS` - My preffered pentesting linux distro
+`Parrot OS` - My prefered pentesting linux distro
 </div>
 
 <img src="./HTB.png" alt="Hack The Box" width="48"/> &nbsp; 
@@ -65,9 +65,9 @@ This is what got me into tech. I stumbled upon some videos on YouTube where I sa
 
 ### Tools That I am very comfortable using
 
-<img src="./wireshark.png" alt="wireshark" width="48"/> &nbsp; `Wireshark` - For network analysis
+<img src="./wireshark.png" alt="wireshark" width="48"/> &nbsp; `Wireshark` - For network analysis and troubleshooting
 
-<img src="./nmap.png" alt="Cisco" width="48"/> &nbsp; `Nmap` - For recon enumerating networks
+<img src="./nmap.png" alt="Cisco" width="48"/> &nbsp; `Nmap` - For recon
 
 <img src="./burpsuite.png" alt="burpsuite" width="48"/> &nbsp; `Burpsuite` - For learning web security
 
@@ -112,7 +112,7 @@ I really like the web and want to make some of the most beautiful websites in ex
 
 ![Electron](./electron.png) &nbsp; `Electron JS` - for taking the web to the desktop environment
 
-<img src="./python.png" alt="burpsuite" width="48"/> &nbsp; `Python` - For scripting
+<img src="./Python.png" alt="python" width="48"/> &nbsp; `Python` - For scripting
 
 <br>
 
@@ -122,13 +122,13 @@ I really like the web and want to make some of the most beautiful websites in ex
 
 ![Node JS](./icons8-nodejs-48.png) &nbsp; `Node JS` - This provides a runtime for running JavaScript applications
 
-![Vite](./vite.svg) &nbsp; `Vite` - This is a really handy tool for scaffolding, developing and bundling web applications quickly and painlessly. It gets everything up and running really quickly
+![Vite](./vite.svg) &nbsp; `Vite` - This is a really handy tool for scaffolding, developing and bundling web applications quickly and painlessly. It gets everything up and running really fast
 
-![Figma](./icons8-figma-48%20.png) &nbsp; `Figma` - This design tool helps me view designs and make some of my own so that my front-end applications can look as best as possible.
+![Figma](./icons8-figma-48%20.png) &nbsp; `Figma` - This design tool helps me view designs and make some of my own so that my front-end applications can look as good as possible.
 
 ![Lunacy](./icons8-lunacy-48.png) &nbsp; `Lunacy` - This compliments Figma by giving me access to features figma doesn't  have like offline editing and viewing
 
-![](./icons8-git-48.png) `Git` - For version controll
+![](./icons8-git-48.png) `Git` - For version control
 
 ## Follow my progress
 
