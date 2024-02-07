@@ -7,7 +7,7 @@
 # Introduction 
 
 <p align="center">
-    <img src="./Black and yellow logo.png" alt="Pico ctf" width="200"/> 
+    <img src="./Black and yellow logo.png" alt="dxiGichuru Logo" width="200"/> 
 </p>
 
 Hello, I'm David Gichuru and welcome to my corner of the web. I'm a Web Developer and junior network engineer I'm passionate about tech and `love learning new things` I am a `detail-oriented` individual who takes pride in ensuring that every aspect of a task is carefully considered and executed to the best of my ability. I'm also a `team player` who thrives in a cooperative environment and a `quick learner` and always looking for new ways to improve my skills and knowledge.
