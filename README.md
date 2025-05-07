@@ -79,5 +79,5 @@ I really like the web and want to make some of the most beautiful websites in ex
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&width=435&lines=Always+Learning...;Building+Secure+Systems...;One+Block+at+a+Time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&width=435&lines=Always+Learning...;Always Improving...;" alt="Typing SVG" />
 </p>
