@@ -32,32 +32,40 @@ I really like the web and want to make some of the most beautiful websites in ex
 
 ### 💻 Programming & Web
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+</div>
 
 ### 🧪 Tools & Platforms
 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Lunacy-1C1C1C?logo=icons8&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white" />
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lunacy-1C1C1C?logo=icons8&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</div>
+
 
 ### 🌐 Networking & Security
 
-<img src="https://img.shields.io/badge/Networking-005A9C?logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white" />
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/Networking-005A9C?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white" />
+</div>
+
 
 ---
 
