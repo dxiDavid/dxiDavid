@@ -1,134 +1,65 @@
-<hr>
+<h1 align="center">Hi there 👋, I'm David Gichuru</h1>
+<h3 align="center">🧑‍💻 Cybersecurity | 🌐 Networking | 🛠️ Web Developement | 💻 IT Infrastructure</h3>
 
-<img src="./Brand Banner.png" alt="banner"/>
-
-<hr>
-
-# Introduction 
-
-<p align="center">
-    <img src="./Black and yellow logo.png" alt="dxiGichuru Logo" width="200"/> 
-</p>
-
-Hello, I'm David Gichuru and welcome to my corner of the web. I'm a Web Developer and junior network engineer I'm passionate about tech and `love learning new things` I am a `detail-oriented` individual who takes pride in ensuring that every aspect of a task is carefully considered and executed to the best of my ability. I'm also a `team player` who thrives in a cooperative environment and a `quick learner` and always looking for new ways to improve my skills and knowledge.
 
 <hr>
 
-# Interests
+# Introduction
 
-The Particular fields of tech I'm interested in are as follows
+Hello, I'm David Gichuru and welcome to my corner of the web. I'm a Web Developer and junior network engineer I'm passionate about tech and `love learning new things` I am a `detail-oriented` and `result-driven` individual. I'm also a `team player` who thrives in a cooperative environment and a `quick learner` and always looking for new ways to improve my skills and knowledge.
 
-## 1. CyberSecurity 
+# Passions
+
+## 1. CyberSecurity
 
 This is what got me into tech. I stumbled upon some videos on YouTube where I saw security professionals doing some pretty interesting things with the browser and the Kali Linux command line and I was sold. At the time I did'nt know what they were doing but I knew I eventually wanted to do it :smile:
 
-<br>
-
-### These are my acheivements so far:
-
-<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
-<img src="introduction-to-cybersecurity.png" alt="Introduction to cybersecurity badge" width="100"/>
-</a>  
-
-<br>
-
-### My Prefered Learning PLatforms
-
-<div style="display: flex; flex-direction: column;">
-
-![Kali Linux](./icons8-kali-linux-48.png) &nbsp; 
-`Kali Linux` - The most prefered pentesting linux distro
-
-<div>
-<img src="./parrot.png" alt="parrot os" width="48"/> &nbsp; 
-`Parrot OS` - My prefered pentesting linux distro
-</div>
-
-<img src="./HTB.png" alt="Hack The Box" width="48"/> &nbsp; 
-`Hack The Box` - A platform full of machines to attack and learn from as well as competitions
-
-<img src="./portswigger.svg" style="background-color: white;" alt="parrot os" width="120"/> &nbsp; 
-`PortSwigger` - A platform for learning and practicing web security
-
-<img src="./THM.webp" alt="Try Hack Me" width="48"/> &nbsp; 
-`TryHackMe` - A platform for learning and practicing security concepts
-
-<img src="./Pico ctf.png" alt="Pico ctf" width="48"/> &nbsp; 
-`Pico CTF` - A platform full of CTF challenges from beginner to advanced
-
-<img src="./Cisco.png" alt="Cisco" width="48"/> &nbsp;
-`Cisco` - A learning platform to learn networking, linux, cybersecurity and more
-
-</div>
-
-[Try hack Me](https://tryhackme.com/) and [Hack The Box](https://www.hackthebox.com/) have really taught me alot and the best part is, I'm not done learning.
-
-### Tools That I am very comfortable using
-
-<img src="./wireshark.png" alt="wireshark" width="48"/> &nbsp; `Wireshark` - For network analysis and troubleshooting
-
-<img src="./nmap.png" alt="Cisco" width="48"/> &nbsp; `Nmap` - For recon
-
-<img src="./burpsuite.png" alt="burpsuite" width="48"/> &nbsp; `Burpsuite` - For learning web security
-
-<hr>
+---
 
 ## 2. Networking
 
 I developed an interest for networking as soon as I first learned about basic web protocols. Since then I decided to explore the world of networking with Cisco and took a CCNA course and earned some credetials along the way.
 
-<br/>
+---
 
-<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
-<img src="ccna-introduction-to-networks.png" alt="introduction to networks badge" width="100"/>
-</a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
-<img src="ccna-switching-routing-and-wireless-essentials.1.png" alt="switching, routing, and wireless essentials badge" width="100"/>
-</a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.credly.com/users/david-gichuru.7f767a1d/badges">
-<img src="ccna-enterprise-networking-security-and-automation.png" alt="badge" width="100"/>
-</a> &nbsp; &nbsp; &nbsp;
-	   	
-<hr>
+## 3. Web Development
 
-## 3. Web Development 
 I really like the web and want to make some of the most beautiful websites in existence. I enjoy `front-end development` and warming up to backend development. I have a number of completed projects and solved challenges that you can view and learn from. Just make sure to attempt the challenge before taking a look at how I solved it :wink:
 
-<br>
+---
 
-## My Prefered Languages, Frameworks and Libraries
+## ## 🛠️ Skills & Tech Stack
 
-![HTML](./icons8-html-5-48.png) &nbsp; `HTML` - for structure
+### 💻 Programming & Web
 
-![CSS](./icons8-cascading-style-sheets-language-48.png) &nbsp; `CSS` - for making things pretty
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 
-![JavaScript](./icons8-javascript-48.png) &nbsp; `JavaScript` - for making dynamic websites and web apps
+### 🧪 Tools & Platforms
 
-![React JS](./icons8-react-48.png) &nbsp; `React JS` - beacause of it's modular approach to building user interfaces and code reusability
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Lunacy-1C1C1C?logo=icons8&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white" />
 
-![Bootstrap](./icons8-bootstrap-48.png) &nbsp; `Bootstrap` - for quick styling
+### 🌐 Networking & Security
 
-![SQL](./icons8-sql-48.png) &nbsp; `SQL` - for databases
+<img src="https://img.shields.io/badge/Networking-005A9C?logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white" />
 
-![Electron](./electron.png) &nbsp; `Electron JS` - for taking the web to the desktop environment
-
-<img src="./Python.png" alt="python" width="48"/> &nbsp; `Python` - For scripting
-
-<br>
-
-### My Tools
-
-![Code Editor](./icons8-visual-studio-code-2019-48.png) &nbsp; `VS Code` - Because it is lightweight, easy to use and has a wealth of extensions that improve the developer exeprience
-
-![Node JS](./icons8-nodejs-48.png) &nbsp; `Node JS` - This provides a runtime for running JavaScript applications
-
-![Vite](./vite.svg) &nbsp; `Vite` - This is a really handy tool for scaffolding, developing and bundling web applications quickly and painlessly. It gets everything up and running really fast
-
-![Figma](./icons8-figma-48%20.png) &nbsp; `Figma` - This design tool helps me view designs and make some of my own so that my front-end applications can look as good as possible.
-
-![Lunacy](./icons8-lunacy-48.png) &nbsp; `Lunacy` - This compliments Figma by giving me access to features figma doesn't  have like offline editing and viewing
-
-![](./icons8-git-48.png) `Git` - For version control
+---
 
 ## Follow my progress
 
@@ -136,3 +67,17 @@ I really like the web and want to make some of the most beautiful websites in ex
 - Codewars - [dxiGichuru](https://www.codewars.com/users/dxiGichuru)
 - X (Twitter) - [@dxidavid254](https://www.twitter.com/dxidavid254)
 - Credly - [David Gichuru](https://www.credly.com/users/david-gichuru.7f767a1d)
+
+### 📫 Let's Connect!
+
+<p>
+  <a href="mailto:david.gichuru@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/david-gichuru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/david-gichuru"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&width=435&lines=Always+Learning...;Building+Secure+Systems...;One+Block+at+a+Time!" alt="Typing SVG" />
+</p>
