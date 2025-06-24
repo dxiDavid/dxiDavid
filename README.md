@@ -6,11 +6,11 @@
 
 # Introduction
 
-Hello, I'm David Gichuru and welcome to my corner of the web. I'm a Web Developer and junior network engineer I'm passionate about tech and `love learning new things` I am a `detail-oriented` and `result-driven` individual. I'm also a `team player` who thrives in a cooperative environment and a `quick learner` and always looking for new ways to improve my skills and knowledge.
+Hello, I'm David Gichuru and welcome to my corner of the web. I do offensive security, information security, digital forensics, networking and web development. I'm passionate about tech and `love learning new things` I am a `detail-oriented` and `result-driven` individual. I'm also a `team player` who thrives in a cooperative environment and a `quick learner` and always looking for new ways to improve my skills and knowledge.
 
 # Passions
 
-## 1. CyberSecurity
+## 1. CyberSecurity/Digital Forensics
 
 This is what got me into tech. I stumbled upon some videos on YouTube where I saw security professionals doing some pretty interesting things with the browser and the Kali Linux command line and I was sold. At the time I did'nt know what they were doing but I knew I eventually wanted to do it :smile:
 
